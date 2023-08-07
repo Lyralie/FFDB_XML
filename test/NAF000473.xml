@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/KatjaMellmann/FFDB_XML/main/Schema/FFDB_mini.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/KatjaMellmann/FFDB_XML/main/Schema/FFDB_mini.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<body>
+<head>NAF000473</head>
+<p>The silver jackal is a very deceitful animal, but he has a nice skin, and we like to wear it very much. Well, one day a Bushman saw a silver jackal killing a small buck. The Bushman shot at the jackal with his bow, and missed him, but he did not know that. The jackal pretended to be dead, and when the Bushman stooped down to pick him up, he suddenly jumped up and ran off saying, "You thought to get my skin to wear, but I am not going to be caught." We always watch the jackal. </p>
+</body>
