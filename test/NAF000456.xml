@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/KatjaMellmann/FFDB_XML/main/Schema/FFDB_mini.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/KatjaMellmann/FFDB_XML/main/Schema/FFDB_mini.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<body>
+<head>NAF000456</head>
+<p>The lion and jackal went one day to lie in wait for elands. The lion shot with the bow he missed his buck, the jackal shot with the bow and hit, and he called out, <pb n="75"/>"Ha! ha!" The lion said, "No, you have hit nothing, I have hit [myself]." The jackal replied, "Yes, father, you have hit." They both went home [in order] to return when the eland was dead to cut up the body. Nevertheless, the jackal returned to the carcase of the eland, and the jackal hid the eland, so that the lion was quite beaten. </p>
+</body>
