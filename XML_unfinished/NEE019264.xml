@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/KatjaMellmann/FFDB_XML/main/Schema/FFDB_mini.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/KatjaMellmann/FFDB_XML/main/Schema/FFDB_mini.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<body>
+<head>NEE019264</head>
+<p><note>This fragment seems to include material from two different sources, - one belonging to the Raven cycle, and probably borrowed from the Chukchee; the other referring to the creation of Uñiʼsak and Alaska, undoubtedly Eskimo.</note></p>
+<p>The Raven and his wife created the world. They made the cape of Uñi'sak out of a nose of an eider-duck [Somatheria spectabilis]; the peninsula of Alaska, of a long belt-knife; and the island Imaʼlik [one of the Diomedes], of a button of the scabbard [with which it is clasped around the hip]. They made reindeer of their hair, and dogs of their nails, and sea-water of their urine.</p>
+</body>
